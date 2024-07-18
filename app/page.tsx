@@ -84,7 +84,7 @@ const Home: NextPage = () => {
                 <div className="flex justify-center">
                   <a href={mailtoLink}>
                     <Button variant="default" size="lg" className="text-lg">
-                      Pitch Us
+                      Pitch To Us
                     </Button>
                   </a>
                 </div>
