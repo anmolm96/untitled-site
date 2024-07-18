@@ -79,7 +79,7 @@ const Home: NextPage = () => {
                 <h3 className="text-2xl">
                   We are excited to play a small role in this story and invest
                   $25k in early-stage Indian founders. If you are starting a
-                  company or thinking of it, please reach out
+                  company, please reach out
                 </h3>
                 <div className="flex justify-center">
                   <a href={mailtoLink}>
