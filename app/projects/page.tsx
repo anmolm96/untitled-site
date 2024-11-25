@@ -2,6 +2,11 @@ import ProjectList from "@/components/projects";
 import type { NextPage } from "next";
 import Head from "next/head";
 
+export const metadata = {
+  title: "the untitled projects",
+  description: "cool projects built by untitled ventures",
+};
+
 const Home: NextPage = () => {
   return (
     <>

@@ -29,7 +29,7 @@ const projects = [
   },
   {
     id: 4,
-    title: "the chai game",
+    title: "the chai game: this or that?",
     tagline: "introducing our investment in dorje teas",
     link: "https://chai.untitledventures.xyz/",
     date: "oct 2024",
@@ -111,7 +111,7 @@ const ProjectList = () => {
         <div className="text-center">
           <div className="inline-block bg-red-600 px-6 py-3 mb-4">
             <h1 className="text-2xl italic m-0 font-bold">
-              drops by untitled ventures
+              the untitled projects
             </h1>
           </div>
         </div>
