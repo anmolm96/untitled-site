@@ -26,7 +26,7 @@ const PORTFOLIO: Company[] = [
   { name: "Integration Labs", url: "https://www.integrationlabs.co/" },
   { name: "Induced", url: "https://www.induced.ai/" },
   { name: "DPDzero", url: "https://www.dpdzero.com/" },
-  { name: "Requestly", url: "https://requestly.io/" },
+  { name: "Requestly (Acq. BrowserStack", url: "https://www.browserstack.com/blog/browserstack-acquires-requestly-to-simplify-http-interception-and-mocking/" },
   {
     name: "Togai (Acq. $ZUO)",
     url: "https://www.togai.com/zuora-acquires-togai/",
