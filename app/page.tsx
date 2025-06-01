@@ -9,11 +9,13 @@ type Company = {
 
 // TODO: Move this to a CMS
 const PORTFOLIO: Company[] = [
+  { name: "Pronto", url: "https://www.withpronto.com/" },
+  { name: "Opennote", url: "https://www.opennote.com/" },
+  { name: "XTCY", url: "https://www.instagram.com/drinkxtcy/" },
   { name: "NeoSapien", url: "https://neosapien.xyz/" },
   { name: "Baylink", url: "https://www.baylink.in/" },
   { name: "Qila Games", url: "https://play.google.com/store/apps/details?id=com.qilagames.ludohero" },
   { name: "Slikk", url: "https://www.slikk.club/" },
-  { name: "Dorje Teas", url: "https://www.dorjeteas.com/" },
   { name: "SuperFam", url: "https://www.superfam.app/" },
   { name: "VAMA", url: "https://vama.app/" },
   { name: "Dice", url: "https://dice.tech/" },
@@ -23,9 +25,10 @@ const PORTFOLIO: Company[] = [
   { name: "Closing Theory", url: "https://closingtheory.com/" },
   { name: "CarePay", url: "https://carepay.money/" },
   { name: "Defog", url: "https://defog.ai/" },
-  { name: "Integration Labs", url: "https://www.integrationlabs.co/" },
   { name: "Induced", url: "https://www.induced.ai/" },
   { name: "DPDzero", url: "https://www.dpdzero.com/" },
+  { name: "Dorje Teas (Exited)", url: "https://www.dorjeteas.com/" },
+  { name: "Integration Labs (Acq. Commenda)", url: "https://www.integrationlabs.co/" },
   { name: "Requestly (Acq. BrowserStack)", url: "https://www.browserstack.com/blog/browserstack-acquires-requestly-to-simplify-http-interception-and-mocking/" },
   {
     name: "Togai (Acq. $ZUO)",
