@@ -11,6 +11,7 @@ type Company = {
 const PORTFOLIO: Company[] = [
   { name: "Pronto", url: "https://www.withpronto.com/" },
   { name: "Opennote", url: "https://www.opennote.com/" },
+  { name: "Gully Labs", url: "https://gullylabs.com/" },
   { name: "XTCY", url: "https://www.instagram.com/drinkxtcy/" },
   { name: "NeoSapien", url: "https://neosapien.xyz/" },
   { name: "Baylink", url: "https://www.baylink.in/" },
