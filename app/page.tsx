@@ -9,6 +9,9 @@ type Company = {
 
 // TODO: Move this to a CMS
 const PORTFOLIO: Company[] = [
+  { name: "Matiks", url: "https://www.matiks.com/" },
+  { name: "Riffle", url: "https://www.riffle.studio/" },
+  { name: "Soma", url: "https://www.somainsure.com/" },
   { name: "Pronto", url: "https://www.withpronto.com/" },
   { name: "Opennote", url: "https://www.opennote.com/" },
   { name: "Gully Labs", url: "https://gullylabs.com/" },
