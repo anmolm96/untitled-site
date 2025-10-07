@@ -9,6 +9,7 @@ type Company = {
 
 // TODO: Move this to a CMS
 const PORTFOLIO: Company[] = [
+  { name: "Ozi", url: "https://ozi.in/" },
   { name: "Matiks", url: "https://www.matiks.com/" },
   { name: "Riffle", url: "https://www.riffle.studio/" },
   { name: "Soma", url: "https://www.somainsure.com/" },
@@ -22,7 +23,6 @@ const PORTFOLIO: Company[] = [
   { name: "Slikk", url: "https://www.slikk.club/" },
   { name: "SuperFam", url: "https://www.superfam.app/" },
   { name: "VAMA", url: "https://vama.app/" },
-  { name: "Dice", url: "https://dice.tech/" },
   { name: "Tramline", url: "https://www.tramline.app/" },
   { name: "Roopya", url: "https://roopya.money/" },
   { name: "Segwise", url: "https://www.segwise.ai/" },
@@ -31,18 +31,19 @@ const PORTFOLIO: Company[] = [
   { name: "Defog", url: "https://defog.ai/" },
   { name: "Induced", url: "https://www.induced.ai/" },
   { name: "DPDzero", url: "https://www.dpdzero.com/" },
-  { name: "Dorje Teas (Exited)", url: "https://www.dorjeteas.com/" },
-  { name: "Integration Labs (Acq. Commenda)", url: "https://www.integrationlabs.co/" },
-  { name: "Requestly (Acq. BrowserStack)", url: "https://www.browserstack.com/blog/browserstack-acquires-requestly-to-simplify-http-interception-and-mocking/" },
   {
     name: "Togai (Acq. $ZUO)",
     url: "https://www.togai.com/zuora-acquires-togai/",
   },
+  { name: "Dice (Acq. Zaggle)", url: "https://dice.tech/" },
+  { name: "Requestly (Acq. BrowserStack)", url: "https://www.browserstack.com/blog/browserstack-acquires-requestly-to-simplify-http-interception-and-mocking/" },
   {
     name: "Partykit (Acq. $NET)",
     url: "https://blog.partykit.io/posts/partykit-is-joining-cloudflare",
   },
+  { name: "Integration Labs (Acq. Commenda)", url: "https://www.integrationlabs.co/" },
   { name: "Spiti (Exited)", url: "https://spiti.xyz/" },
+  { name: "Dorje Teas (Exited)", url: "https://www.dorjeteas.com/" },
 ];
 
 const Home: NextPage = () => {
