@@ -43,10 +43,10 @@ const Fellowship: NextPage = () => {
         <div className="border-accents-1 m-auto my-8 w-full max-w-3xl rounded-md border border-black">
           <div className="flex flex-col gap-8 p-8 sm:p-12">
             <section className="flex flex-col gap-6">
-              <p className="text-4xl font-extrabold uppercase tracking-wide sm:text-6xl">
+              <p className="text-2xl font-extrabold uppercase tracking-wide sm:text-3xl">
                 The Untitled Fellowship
               </p>
-              <h1 className="text-2xl font-extrabold leading-tight sm:text-4xl">
+              <h1 className="text-4xl font-extrabold leading-tight sm:text-6xl">
                 The next generation of founders is, as yet, untitled.
               </h1>
               <p className="max-w-2xl text-xl leading-relaxed sm:text-2xl">
