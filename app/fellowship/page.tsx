@@ -43,7 +43,7 @@ const Fellowship: NextPage = () => {
         <div className="border-accents-1 m-auto my-8 w-full max-w-3xl rounded-md border border-black">
           <div className="flex flex-col gap-8 p-8 sm:p-12">
             <section className="flex flex-col gap-6">
-              <p className="text-sm font-semibold uppercase tracking-widest text-muted-foreground">
+              <p className="text-2xl font-extrabold uppercase tracking-wide sm:text-3xl">
                 The Untitled Fellowship
               </p>
               <h1 className="text-4xl font-extrabold leading-tight sm:text-6xl">
@@ -87,15 +87,6 @@ const Fellowship: NextPage = () => {
                 This is for Indian students at U.S. universities who are
                 curious about venture capital, consumer, and India.
               </p>
-            </section>
-
-            <section className="flex flex-col gap-6 border-t border-black/20 pt-8">
-              <p className="max-w-sm text-2xl font-bold leading-tight sm:text-4xl">
-                The story is still being written.
-              </p>
-              <div>
-                <ApplyButton />
-              </div>
             </section>
           </div>
         </div>
